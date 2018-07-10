@@ -1,0 +1,20 @@
+{
+  "name": "guld-key-btc",
+  "version": "0.0.2",
+  "description": "Bitcoin (BTC) guld key library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "guld",
+    "key",
+    "bitcoin"
+  ],
+  "author": "isysd",
+  "license": "MIT",
+  "dependencies": {
+    "coininfo": "^4.0.1",
+    "coinkey": "^3.0.0"
+  }
+}
