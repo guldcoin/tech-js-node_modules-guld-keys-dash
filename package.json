@@ -1,7 +1,7 @@
 {
-  "name": "guld-key-btc",
+  "name": "guld-keys-dash",
   "version": "0.0.3",
-  "description": "Bitcoin (BTC) guld key library.",
+  "description": "Dash guld key library.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,12 +9,15 @@
   "keywords": [
     "guld",
     "key",
-    "bitcoin"
+    "dash"
   ],
   "author": "isysd",
   "license": "MIT",
   "dependencies": {
     "coininfo": "^4.0.1",
     "coinkey": "^3.0.0"
-  }
+  },
+  "readme": "README.md",
+  "homepage": "https://github.com/isysd/tech-js-node_modules-guld-keys-dash#readme",
+  "repository": "git@github.com:isysd/tech-js-node_modules-guld-keys-dash.git"
 }
