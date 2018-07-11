@@ -1,6 +1,6 @@
 {
   "name": "guld-keys-dash",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dash guld key library.",
   "main": "index.js",
   "scripts": {
